@@ -17,6 +17,7 @@ Day 2 - Saturday 17th June 2023
 - scripted the volchapday selection screen
 - created github
 - synced folder to github
+- edited options.rpy with updated info about version, description, text cps, etc.
 Error log:
 - the game would not detect the start label inside the volchapday selection screen
 	- i fixed this by moving the script folder into the GAME folder, idiot...
