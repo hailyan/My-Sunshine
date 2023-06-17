@@ -20,3 +20,4 @@ Day 2 - Saturday 17th June 2023
 Error log:
 - the game would not detect the start label inside the volchapday selection screen
 	- i fixed this by moving the script folder into the GAME folder, idiot...
+- i had some issues with getting github to work but managed to fix them by messing with settings
