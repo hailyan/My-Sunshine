@@ -1,0 +1,22 @@
+Project Info
+Project Name: My Sunshine
+Project Start Date: 16/06/2023
+Project Finish Date: N/A
+Project Time Frame: 3 months for 1st demo
+---
+Daily Development Logs
+Day 1 - Friday 16th June 2023
+- Installed Ren'Py
+- Created project in Ren'Py
+- Created project plan
+- Wrote out story synopsis
+- Wrote out story layout plan for demo
+- Wrote out brief story plan for vol 1 chap 1
+
+Day 2 - Saturday 17th June 2023
+- scripted the volchapday selection screen
+- created github
+- synced folder to github
+Error log:
+- the game would not detect the start label inside the volchapday selection screen
+	- i fixed this by moving the script folder into the GAME folder, idiot...

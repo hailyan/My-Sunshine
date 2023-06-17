@@ -1,0 +1,137 @@
+Story Synopsis
+It's your first day at your new job inside the Government. You're thrilled, as the pay is great and you can gain social popularity through this status. You're placed inside a new department, based around AI development. How exciting! However, you quickly begin to find out things aren't as they seem in this business...
+---
+Story Layout Plan
+Volumes = Months
+Chapters = Weeks
+Pages = Days
+
+Demo 1 plans to have 3 Volumes / Months.
+
+Volume 1
+Volume 1 - Chapter 1 - Day 1 (Monday 1st January)
+Volume 1 - Chapter 1 - Day 2 (Tuesday 2nd January)
+Volume 1 - Chapter 1 - Day 3 (Wednesday 3rd January)
+Volume 1 - Chapter 1 - Day 4 (Thursday 4th January)
+Volume 1 - Chapter 1 - Day 5 (Friday 5th January)
+Volume 1 - Chapter 1 - Day 6 (Saturday 6th January)
+Volume 1 - Chapter 1 - Day 7 (Sunday 7th January)
+
+Volume 1 - Chapter 2 - Day 1 (Monday 8th January)
+Volume 1 - Chapter 2 - Day 2 (Tuesday 9th January)
+Volume 1 - Chapter 2 - Day 3 (Wednesday 10th January)
+Volume 1 - Chapter 2 - Day 4 (Thursday 11th January)
+Volume 1 - Chapter 2 - Day 5 (Friday 12th January)
+Volume 1 - Chapter 2 - Day 6 (Saturday 13th January)
+Volume 1 - Chapter 2 - Day 7 (Sunday 14th January)
+
+Volume 1 - Chapter 3 - Day 1 (Monday 15th January)
+Volume 1 - Chapter 3 - Day 2 (Tuesday 16th January)
+Volume 1 - Chapter 3 - Day 3 (Wednesday 17th January)
+Volume 1 - Chapter 3 - Day 4 (Thursday 18th January)
+Volume 1 - Chapter 3 - Day 5 (Friday 19th January)
+Volume 1 - Chapter 3 - Day 6 (Saturday 20th January)
+Volume 1 - Chapter 3 - Day 7 (Sunday 21st January)
+
+Volume 1 - Chapter 4 - Day 1 (Monday 22nd January)
+Volume 1 - Chapter 4 - Day 2 (Tuesday 23rd January)
+Volume 1 - Chapter 4 - Day 3 (Wednesday 24th January)
+Volume 1 - Chapter 4 - Day 4 (Thursday 25th January)
+Volume 1 - Chapter 4 - Day 5 (Friday 26th January)
+Volume 1 - Chapter 4 - Day 6 (Saturday 27th January)
+Volume 1 - Chapter 4 - Day 7 (Sunday 28th January)
+
+Total: 1 volume 4 chapters 28 days
+
+Volume 2
+Volume 2 - Chapter 1 - Day 1 (Monday 29th January)
+Volume 2 - Chapter 1 - Day 2 (Tuesday 30th January)
+Volume 2 - Chapter 1 - Day 3 (Wednesday 31st January)
+Volume 2 - Chapter 1 - Day 4 (Thursday 1st February)
+Volume 2 - Chapter 1 - Day 5 (Friday 2nd February)
+Volume 2 - Chapter 1 - Day 6 (Saturday 3rd February)
+Volume 2 - Chapter 1 - Day 7 (Sunday 4th February)
+
+Volume 2 - Chapter 2 - Day 1 (Monday 5th February)
+Volume 2 - Chapter 2 - Day 2 (Tuesday 6th February)
+Volume 2 - Chapter 2 - Day 3 (Wednesday 7th February)
+Volume 2 - Chapter 2 - Day 4 (Thursday 8th February)
+Volume 2 - Chapter 2 - Day 5 (Friday 9th February)
+Volume 2 - Chapter 2 - Day 6 (Saturday 10th February)
+Volume 2 - Chapter 2 - Day 7 (Sunday 11th February)
+
+Volume 2 - Chapter 3 - Day 1 (Monday 12th February)
+Volume 2 - Chapter 3 - Day 2 (Tuesday 13th February)
+Volume 2 - Chapter 3 - Day 3 (Wednesday 14th February)
+Volume 2 - Chapter 3 - Day 4 (Thursday 15th February)
+Volume 2 - Chapter 3 - Day 5 (Friday 16th February)
+Volume 2 - Chapter 3 - Day 6 (Saturday 17th February)
+Volume 2 - Chapter 3 - Day 7 (Sunday 18th February)
+
+Volume 2 - Chapter 3 - Day 1 (Monday 19th February)
+Volume 2 - Chapter 3 - Day 2 (Tuesday 20th February)
+Volume 2 - Chapter 3 - Day 3 (Wednesday 21st February)
+Volume 2 - Chapter 3 - Day 4 (Thursday 22nd February)
+Volume 2 - Chapter 3 - Day 5 (Friday 23rd February)
+Volume 2 - Chapter 3 - Day 6 (Saturday 24th February)
+Volume 2 - Chapter 3 - Day 7 (Sunday 25th February)
+
+Total: 2 volumes 8 chapters 56 days
+
+Volume 3
+Volume 3 - Chapter 1 - Day 1 (Monday 26th February)
+Volume 3 - Chapter 1 - Day 2 (Tuesday 27th February)
+Volume 3 - Chapter 1 - Day 3 (Wednesday 28th February)
+Volume 3 - Chapter 1 - Day 4 (Thursday 1st March)
+Volume 3 - Chapter 1 - Day 5 (Friday 2nd March)
+Volume 3 - Chapter 1 - Day 6 (Saturday 3rd March)
+Volume 3 - Chapter 1 - Day 7 (Sunday 4th March)
+
+Volume 3 - Chapter 2 - Day 1 (Monday 5th March)
+Volume 3 - Chapter 2 - Day 2 (Tuesday 6th March)
+Volume 3 - Chapter 2 - Day 3 (Wednesday 7th March)
+Volume 3 - Chapter 2 - Day 4 (Thursday 8th March)
+Volume 3 - Chapter 2 - Day 5 (Friday 9th March)
+Volume 3 - Chapter 2 - Day 6 (Saturday 10th March)
+Volume 3 - Chapter 2 - Day 7 (Sunday 11th March)
+
+Volume 3 - Chapter 3 - Day 1 (Monday 12th March)
+Volume 3 - Chapter 3 - Day 2 (Tuesday 13th March)
+Volume 3 - Chapter 3 - Day 3 (Wednesday 14th March)
+Volume 3 - Chapter 3 - Day 4 (Thursday 15th March)
+Volume 3 - Chapter 3 - Day 5 (Friday 16th March)
+Volume 3 - Chapter 3 - Day 6 (Saturday 17th March)
+Volume 3 - Chapter 3 - Day 7 (Sunday 18th March)
+
+Volume 3 - Chapter 4 - Day 1 (Monday 19th March)
+Volume 3 - Chapter 4 - Day 2 (Tuesday 20th March)
+Volume 3 - Chapter 4 - Day 3 (Wednesday 21st March)
+Volume 3 - Chapter 4 - Day 4 (Thursday 22nd March)
+Volume 3 - Chapter 4 - Day 5 (Friday 23rd March)
+Volume 3 - Chapter 4 - Day 6 (Saturday 24th March)
+Volume 3 - Chapter 4 - Day 7 (Sunday 25th March)
+
+Total: 3 volumes 12 chapters 84 days
+---
+Brief Story Plan
+Volume 1 - Chapter 1 - Day 1
+- new job.
+- bump into girl on train, brief interaction, left with curiosity on mysterious aura of girl.
+- go to job, barely made it on time.
+- get sent to AI department. introduce player to AI department.
+- player meets girl from train again. gets paired with her. awkward.
+- introduce couple side characters.
+- day spent settling in.
+- go home.
+---
+Volume 1 - Chapter 1 - Day 2
+- second day of job. first day of actual work.
+- partner explains what you need to do.
+- do work.
+- lunchtime, choose who to hang out with.
+- do more work.
+- go home.
+---
+Volume 1 - Chapter 1 - Days 3-7
+- typically follow same as day 2, minus the beginning explanation, in order to get player into flow.
+- build relationships a bit along the way.
