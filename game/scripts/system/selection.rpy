@@ -3,7 +3,7 @@
     "This game is currently in {b}Beta{/b} development."
     "The story will be incomplete and maybe broken."
     "Please be patient and report any bugs/errors to me!"
-    "You can report anything on the {a=https://github.com/hailyan/MySunshineVN}Github.{/a}"
+    "You can report anything on the {a=https://github.com/hailyan/My-Sunshine}Github.{/a}"
     "Without further ado, please enjoy!"
     menu volumeselect:
         "Select a Volume."
