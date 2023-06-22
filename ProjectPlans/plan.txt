@@ -5,7 +5,7 @@ Project Finish Date: N/A
 Project Time Frame: 3 months for 1st demo
 ---
 Daily Development Logs
-Day 1 - Friday 16th June 2023
+Friday 16th June 2023
 - Installed Ren'Py
 - Created project in Ren'Py
 - Created project plan
@@ -13,7 +13,7 @@ Day 1 - Friday 16th June 2023
 - Wrote out story layout plan for demo
 - Wrote out brief story plan for vol 1 chap 1
 
-Day 2 - Saturday 17th June 2023
+Saturday 17th June 2023
 - scripted the volchapday selection screen
 - created github
 - synced folder to github
