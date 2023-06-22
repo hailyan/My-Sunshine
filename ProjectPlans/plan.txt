@@ -23,3 +23,11 @@ Error log:
 - the game would not detect the start label inside the volchapday selection screen
 	- i fixed this by moving the script folder into the GAME folder, idiot...
 - i had some issues with getting github to work but managed to fix them by messing with settings
+
+Thursday 22nd June 2023
+- Changed game version from 0.0.1-beta to -alpha
+- Removed Day numbers from plan.txt due to inconsistency
+- Created MC's layered image
+- Defined MC's layered image
+- Created Alexis' layered image
+- Defined Alexis' layered image
