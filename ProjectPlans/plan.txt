@@ -31,3 +31,11 @@ Thursday 22nd June 2023
 - Defined MC's layered image
 - Created Alexis' layered image
 - Defined Alexis' layered image
+
+Friday 23rd June 2023
+- Created still image for MC
+- Created still image for Alexis
+- Added nose & blush to MC base
+- Added nose to Alexis' base
+- Created Yuuki's layered image
+- Created still image for Yuuki
