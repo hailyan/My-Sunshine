@@ -60,3 +60,13 @@ layeredimage alexis:
             "images/char/alexis/raw_li_assets/mouth_neutral.png"
         attribute mouth_talk:
             "images/char/alexis/raw_li_assets/mouth_talk.png"
+    
+    group hands:
+        attribute hand_out:
+            "images/char/alexis/raw_li_assets/hand_out.png"
+        attribute hand_raised:
+            "images/char/alexis/raw_li_assets/hand_raised.png"
+        attribute hand_touched:
+            "images/char/alexis/raw_li_assets/hand_touched.png"
+        attribute hand_write:
+            "images/char/alexis/raw_li_assets/hand_write.png"

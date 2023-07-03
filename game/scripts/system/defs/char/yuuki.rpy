@@ -69,3 +69,9 @@ layeredimage yuuki:
             "images/char/yuuki/raw_li_assets/mouth_shout.png"
         attribute mouth_pout:
             "images/char/yuuki/raw_li_assets/mouth_pout.png"
+    
+    group hands:
+        attribute hand_clasped:
+            "images/char/yuuki/raw_li_assets/hand_clasped.png"
+        attribute hand_wave:
+            "images/char/yuuki/raw_li_assets/hand_wave.png"

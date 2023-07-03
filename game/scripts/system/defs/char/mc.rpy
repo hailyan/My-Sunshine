@@ -79,3 +79,13 @@ layeredimage mc:
     group outfit:
         attribute outfit_work default:
             "images/char/mc/raw_li_assets/outfit_work.png"
+    
+    group hands:
+        attribute hand_clasped:
+            "images/char/mc/raw_li_assets/hand_clasped.png"
+        attribute hand_peace:
+            "images/char/mc/raw_li_assets/hand_peace.png"
+        attribute hand_touched:
+            "images/char/mc/raw_li_assets/hand_touched.png"
+        attribute hand_wave:
+            "images/char/mc/raw_li_assets/hand_wave.png"
