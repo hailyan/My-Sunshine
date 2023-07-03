@@ -48,7 +48,7 @@ layeredimage alexis:
             "images/char/alexis/raw_li_assets/hair_front.png"
     
     group hair_accessory:
-        attribute hair_rose default:
+        attribute hair_rose:
             "images/char/alexis/raw_li_assets/hair_rose.png"
     
     group eyebrows:

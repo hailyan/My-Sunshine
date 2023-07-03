@@ -47,7 +47,7 @@ layeredimage mc:
             "images/char/mc/raw_li_assets/hair_front.png"
 
     group hair_accessory:
-        attribute hair_bow default:
+        attribute hair_bow:
             "images/char/mc/raw_li_assets/hair_bow.png"
     
     group hair_ahoge:
