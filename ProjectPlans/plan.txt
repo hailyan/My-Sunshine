@@ -39,3 +39,8 @@ Friday 23rd June 2023
 - Added nose to Alexis' base
 - Created Yuuki's layered image
 - Created still image for Yuuki
+
+Monday 3rd July 2023
+- Defined Yuuki's layered image
+- Removed default hair accs for Alexis & MC
+- Added hands definition group to Alexis MC & Yuuki
